@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rishi!
+# Hi there, I'm <span style="color:blue">Rishi</span>🙋‍♂️
 
 Welcome to my GitHub! I'm a passionate developer who loves turning ideas into real-world solutions using a wide array of tools and technologies.
 
