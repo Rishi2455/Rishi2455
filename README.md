@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <span style="color:blue">Rishi</span>🙋‍♂️</h1>
+<h1>Hi there, I'm <a href="https://github.com/Rishi2455">Rishi</a>🙋‍♂️</h1>
 
 Welcome to my GitHub! I'm a passionate developer who loves turning ideas into real-world solutions using a wide array of tools and technologies.
 
